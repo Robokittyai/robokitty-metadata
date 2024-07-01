@@ -1,0 +1,7 @@
+{
+  "name": "Robokitty",
+  "symbol": "RKT",
+  "uri": "https://example.com/metadata.json", // This should be a URL pointing to the actual metadata
+  "seller_fee_basis_points": 500,
+  "creators": null
+}
