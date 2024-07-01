@@ -1,7 +1,7 @@
 {
   "name": "Robokitty",
   "symbol": "RKT",
-  "uri": "https://example.com/metadata.json", // This should be a URL pointing to the actual metadata
+  "uri": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/metadata.json",
   "seller_fee_basis_points": 500,
   "creators": null
 }
